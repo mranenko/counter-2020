@@ -1,0 +1,26 @@
+do-counter,
+.do-counter-button,
+.do-counter-value {
+  display: inline-block;
+}
+
+.do-counter-button {
+  background-image: linear-gradient(to bottom, #46ef25, #25e2ef);
+  border: 0;
+  border-radius: 50%;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 40px;
+  outline: none;
+  padding: 0;
+  text-align: center;
+  width: 40px;
+}
+
+.do-counter-value {
+  line-height: 40px;
+  font-size: 16px;
+  padding: 0 10px;
+}
