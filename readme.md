@@ -1,3 +1,5 @@
+<img src="images/screenshots/counter.png" alt="" style="margin: 0 auto; max-width: 100%;" />
+
 # Counter
 
 An example of a custom counter component in plain JavaScript.
